@@ -28,3 +28,13 @@
 | 葛亦   | 静态页面规格 | 未完成       | 商品规格参数展示有问题，规格组展示也有问题 | https://github.com/1906A/geyi.git       |
 | 张祺   | 静态页面规格 | 完成         | 商品规格参数展示有问题，规格组展示也有问题 | https://github.com/1906A/zhangqi.git    |
 | 曹星   | 静态页面规格 | 完成         | 商品规格参数展示有问题，规格组展示也有问题 | https://github.com/1906A/caoxing.git    |
+
+6.9
+
+| 姓名   | 笔记完成内容     | 录音完成内容 | 遇到的问题 | 地址                                      |
+| ------ | ---------------- | ------------ | ---------- | ----------------------------------------- |
+| 曹晟钧 | rabbitmq消息发布 | 未完成       |            | <https://github.com/1906A/CaoShengJun>    |
+| 康静阁 | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/KangJingGe.git> |
+| 葛亦   | rabbitmq消息发布 | 未完成       |            | <https://github.com/1906A/geyi.git>       |
+| 张祺   | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/zhangqi.git>    |
+| 曹星   | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/caoxing.git>    |
