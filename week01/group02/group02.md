@@ -35,6 +35,6 @@
 | ------ | ---------------- | ------------ | ---------- | ----------------------------------------- |
 | 曹晟钧 | rabbitmq消息发布 | 未完成       |            | <https://github.com/1906A/CaoShengJun>    |
 | 康静阁 | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/KangJingGe.git> |
-| 葛亦   | rabbitmq消息发布 | 未完成       |            | <https://github.com/1906A/geyi.git>       |
+| 葛亦   | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/geyi.git>       |
 | 张祺   | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/zhangqi.git>    |
 | 曹星   | rabbitmq消息发布 | 完成         |            | <https://github.com/1906A/caoxing.git>    |
